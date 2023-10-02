@@ -1,0 +1,2 @@
+import Hari
+Hari()
